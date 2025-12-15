@@ -42,8 +42,8 @@ TripCoin is a mobile app for managing trips and expenses, allowing users to trac
 
 ## 📸 Screenshots
 <div float="left">
-  <img src="screenshots/homeScreen.png" width="200"/><img src="screenshots/tripScreen.png" width="200"/><img src="screenshots/addExpense.png" width="200"/><img src="screenshots/expenseCard.png" width="200"/>
+  <img src="screenshots/logoScreen.png" width="200"/><img src="screenshots/welcomeScreen.png" width="200"/><img src="screenshots/signinScreen.png" width="200"/><img src="screenshots/signupScreen.png" width="200"/>
 </div>
 <div float="left">
-  <img src="screenshots/tripDetails.png" width="200"/><img src="screenshots/categorySelect.png" width="200"/><img src="screenshots/settings.png" width="200"/><img src="screenshots/summary.png" width="200"/>
+  <img src="screenshots/homeScreen.png" width="200"/><img src="screenshots/tripScreen.png" width="200"/><img src="screenshots/addtripScreen.png" width="200"/><img src="screenshots/addexpenseScreen.png" width="200"/>
 </div>
