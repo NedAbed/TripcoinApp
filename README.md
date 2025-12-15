@@ -1,4 +1,4 @@
-# 💰 TripCoin
+# ✈️ TripCoin
 
 TripCoin is a mobile app for managing trips and expenses, allowing users to track expenses, view trip details, and maintain a clear overview of their spending.
 
