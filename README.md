@@ -21,7 +21,6 @@ TripCoin is a mobile app for managing trips and expenses, allowing users to trac
 - Formik & Yup (forms and validation)  
 - React Navigation  
 - Figma for UI/UX design  
-- Optional backend integration for data persistence  
 
 ---
 
