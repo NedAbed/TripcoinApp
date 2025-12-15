@@ -1,1 +1,50 @@
+# 💰 TripCoin
 
+TripCoin is a mobile app for managing trips and expenses, allowing users to track expenses, view trip details, and maintain a clear overview of their spending.
+
+---
+
+## ✨ Features
+
+- Create and manage multiple trips  
+- Add, edit, and delete expenses for each trip  
+- View detailed trip information including total expenses  
+- Categorize expenses and manage budgets  
+- Form validation for accurate data entry  
+
+---
+
+## 🛠 Tech Stack
+
+- React Native & Expo  
+- Context API for state management  
+- Formik & Yup (forms and validation)  
+- React Navigation  
+- Figma for UI/UX design  
+- Optional backend integration for data persistence  
+
+---
+
+## 🧠 What This Project Demonstrates
+
+- Trip-focused app architecture with intuitive navigation  
+- Expense management logic in a real-world scenario  
+- Form handling and validation with Formik & Yup  
+- Reusable components and scalable folder structure  
+- UX/UI design implementation from concept to app  
+
+---
+
+📲 **Download**
+- Android: Coming soon 📱  
+- iOS: Coming soon 🍏
+
+---
+
+## 📸 Screenshots
+<div float="left">
+  <img src="screenshots/homeScreen.png" width="200"/><img src="screenshots/tripScreen.png" width="200"/><img src="screenshots/addExpense.png" width="200"/><img src="screenshots/expenseCard.png" width="200"/>
+</div>
+<div float="left">
+  <img src="screenshots/tripDetails.png" width="200"/><img src="screenshots/categorySelect.png" width="200"/><img src="screenshots/settings.png" width="200"/><img src="screenshots/summary.png" width="200"/>
+</div>
