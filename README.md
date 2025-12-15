@@ -35,7 +35,7 @@ TripCoin is a mobile app for managing trips and expenses, allowing users to trac
 ---
 
 📲 **Download**
-- Android: Coming soon 📱  
+- Android: [APK Download](https://github.com/NedAbed/TripcoinApp/releases/tag/v1.0)
 - iOS: Coming soon 🍏
 
 ---
